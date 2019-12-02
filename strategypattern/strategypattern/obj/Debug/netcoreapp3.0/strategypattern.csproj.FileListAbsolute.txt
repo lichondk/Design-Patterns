@@ -1,0 +1,11 @@
+C:\Users\fuck\source\repos\strategypattern\strategypattern\bin\Debug\netcoreapp3.0\strategypattern.exe
+C:\Users\fuck\source\repos\strategypattern\strategypattern\bin\Debug\netcoreapp3.0\strategypattern.deps.json
+C:\Users\fuck\source\repos\strategypattern\strategypattern\bin\Debug\netcoreapp3.0\strategypattern.runtimeconfig.json
+C:\Users\fuck\source\repos\strategypattern\strategypattern\bin\Debug\netcoreapp3.0\strategypattern.runtimeconfig.dev.json
+C:\Users\fuck\source\repos\strategypattern\strategypattern\bin\Debug\netcoreapp3.0\strategypattern.dll
+C:\Users\fuck\source\repos\strategypattern\strategypattern\bin\Debug\netcoreapp3.0\strategypattern.pdb
+C:\Users\fuck\source\repos\strategypattern\strategypattern\obj\Debug\netcoreapp3.0\strategypattern.csprojAssemblyReference.cache
+C:\Users\fuck\source\repos\strategypattern\strategypattern\obj\Debug\netcoreapp3.0\strategypattern.AssemblyInfoInputs.cache
+C:\Users\fuck\source\repos\strategypattern\strategypattern\obj\Debug\netcoreapp3.0\strategypattern.AssemblyInfo.cs
+C:\Users\fuck\source\repos\strategypattern\strategypattern\obj\Debug\netcoreapp3.0\strategypattern.dll
+C:\Users\fuck\source\repos\strategypattern\strategypattern\obj\Debug\netcoreapp3.0\strategypattern.pdb

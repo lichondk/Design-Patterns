@@ -1,0 +1,7 @@
+C:\Users\fuck\source\repos\soild\soild\bin\Debug\soild.exe.config
+C:\Users\fuck\source\repos\soild\soild\bin\Debug\soild.exe
+C:\Users\fuck\source\repos\soild\soild\bin\Debug\soild.pdb
+C:\Users\fuck\source\repos\soild\soild\obj\Debug\singleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\fuck\source\repos\soild\soild\obj\Debug\singleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\fuck\source\repos\soild\soild\obj\Debug\soild.exe
+C:\Users\fuck\source\repos\soild\soild\obj\Debug\soild.pdb

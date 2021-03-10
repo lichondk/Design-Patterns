@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qelu5VqNSufjLVUbTC2MNdFv0ppkseJ7kRM83Q545+F+1E060OHLuQlRk0DOH7mnUDJGYqWnswt2RqQgHTmMqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fuck\\Documents\\GitHub\\E-commerce\\Developer Assesment\\Design-Patterns\\strategypattern\\strategypattern\\strategypattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\fuck\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

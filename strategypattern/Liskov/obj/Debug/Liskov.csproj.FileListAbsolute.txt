@@ -1,0 +1,2 @@
+C:\Users\fuck\Documents\GitHub\E-commerce\Developer Assesment\Design-Patterns\strategypattern\Liskov\obj\Debug\Liskov.csprojAssemblyReference.cache
+C:\Users\fuck\Documents\GitHub\E-commerce\Developer Assesment\Design-Patterns\strategypattern\Liskov\obj\Debug\Liskov.csproj.CoreCompileInputs.cache
